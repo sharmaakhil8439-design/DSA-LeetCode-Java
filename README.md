@@ -7,6 +7,7 @@ My Java solutions to LeetCode DSA problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,8 +29,13 @@ My Java solutions to LeetCode DSA problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

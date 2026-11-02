@@ -38,4 +38,12 @@ My Java solutions to LeetCode DSA problems
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1922-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->

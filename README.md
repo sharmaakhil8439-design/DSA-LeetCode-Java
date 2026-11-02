@@ -9,6 +9,7 @@ My Java solutions to LeetCode DSA problems
 | [0001-two-sum](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
 | [1480-running-sum-of-1d-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,8 @@ My Java solutions to LeetCode DSA problems
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ My Java solutions to LeetCode DSA problems
 | ------- |
 | [0001-two-sum](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
+| [1480-running-sum-of-1d-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@ My Java solutions to LeetCode DSA problems
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1922-count-good-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

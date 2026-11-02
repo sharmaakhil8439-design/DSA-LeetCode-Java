@@ -15,19 +15,18 @@ class Solution {
 
     long power(long base, long exp) {
 
-        long ans = 1;
-
-        while (exp > 0) {
-
-            if (exp % 2 == 1) {
-                ans = (ans * base) % MOD;
-                exp--;
-            } else {
-                base = (base * base) % MOD;
-                exp = exp / 2;
-            }
-        }
-
-        return ans;
+    if (exp == 0) {
+        return 1;
     }
+
+    long half = power(base, exp / 2);
+
+    long result = (half * half) % MOD;
+
+    if (exp % 2 == 1) {
+        result = (result * base) % MOD;
+    }
+
+    return result;
+}
 }

@@ -43,6 +43,7 @@ My Java solutions to LeetCode DSA problems
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0507-perfect-number) |
 | [1922-count-good-numbers](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |

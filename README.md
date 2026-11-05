@@ -8,6 +8,7 @@ My Java solutions to LeetCode DSA problems
 | ------- |
 | [0001-two-sum](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0136-single-number) |
 | [1480-running-sum-of-1d-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
@@ -34,6 +35,7 @@ My Java solutions to LeetCode DSA problems
 | ------- |
 | [0022-generate-parentheses](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |

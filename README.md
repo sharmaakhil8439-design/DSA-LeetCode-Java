@@ -12,6 +12,7 @@ My Java solutions to LeetCode DSA problems
 | [0046-permutations](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0136-single-number) |
 | [1480-running-sum-of-1d-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
@@ -28,6 +29,7 @@ My Java solutions to LeetCode DSA problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -44,6 +46,7 @@ My Java solutions to LeetCode DSA problems
 | [0046-permutations](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
@@ -77,4 +80,12 @@ My Java solutions to LeetCode DSA problems
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0047-permutations-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

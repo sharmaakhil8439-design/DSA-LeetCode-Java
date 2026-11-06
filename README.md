@@ -10,6 +10,7 @@ My Java solutions to LeetCode DSA problems
 | [0039-combination-sum](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0136-single-number) |
@@ -39,6 +40,7 @@ My Java solutions to LeetCode DSA problems
 | [0039-combination-sum](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
@@ -68,4 +70,8 @@ My Java solutions to LeetCode DSA problems
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1929-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->

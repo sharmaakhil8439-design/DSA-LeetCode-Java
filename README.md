@@ -61,14 +61,17 @@ My Java solutions to LeetCode DSA problems
 | [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0507-perfect-number) |
 | [1922-count-good-numbers](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1922-count-good-numbers) |
 ## Prefix Sum
 |  |

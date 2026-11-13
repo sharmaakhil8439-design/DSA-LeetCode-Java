@@ -61,6 +61,7 @@ My Java solutions to LeetCode DSA problems
 | [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
 ## Math
 |  |
@@ -97,4 +98,8 @@ My Java solutions to LeetCode DSA problems
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0051-n-queens) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->

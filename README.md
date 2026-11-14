@@ -66,6 +66,7 @@ My Java solutions to LeetCode DSA problems
 | [0191-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0338-counting-bits) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
 | ------- |

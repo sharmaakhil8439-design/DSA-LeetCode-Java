@@ -66,12 +66,14 @@ My Java solutions to LeetCode DSA problems
 | [0191-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0338-counting-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0507-perfect-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1922-count-good-numbers](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -107,4 +109,8 @@ My Java solutions to LeetCode DSA problems
 | ------- |
 | [0190-reverse-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0191-number-of-1-bits) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->

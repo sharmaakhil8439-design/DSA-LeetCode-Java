@@ -38,6 +38,7 @@ My Java solutions to LeetCode DSA problems
 | ------- |
 | [0022-generate-parentheses](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,6 +65,7 @@ My Java solutions to LeetCode DSA problems
 | [0190-reverse-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |

@@ -16,6 +16,7 @@ My Java solutions to LeetCode DSA problems
 | [0079-word-search](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0136-single-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -67,6 +68,7 @@ My Java solutions to LeetCode DSA problems
 | [0231-power-of-two](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0338-counting-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
@@ -92,6 +94,7 @@ My Java solutions to LeetCode DSA problems
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0047-permutations-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -113,4 +116,8 @@ My Java solutions to LeetCode DSA problems
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->

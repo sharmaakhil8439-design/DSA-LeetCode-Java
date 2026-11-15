@@ -2,33 +2,24 @@ class Solution {
 
     public List<List<Integer>> subsets(int[] nums) {
 
+        int n = nums.length;
+
         List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> current = new ArrayList<>();
 
-        solve(nums, 0, current, ans);
+        for(int i = 0; i < (1 << n); i++) {
 
-        return ans;
-    }
+            List<Integer> temp = new ArrayList<>();
 
-    void solve(int[] nums, int index,
-               List<Integer> current,
-               List<List<Integer>> ans) {
+            for(int j = 0; j < n; j++) {
 
-        // Base case
-        if (index == nums.length) {
-            ans.add(new ArrayList<>(current));
-            return;
+                if((i & (1 << j)) != 0) {
+                    temp.add(nums[j]);
+                }
+            }
+
+            ans.add(temp);
         }
 
-        // Choice 1: Include current element
-        current.add(nums[index]);
-
-        solve(nums, index + 1, current, ans);
-
-        // Backtracking
-        current.remove(current.size() - 1);
-
-        // Choice 2: Exclude current element
-        solve(nums, index + 1, current, ans);
+        return ans;
     }
 }

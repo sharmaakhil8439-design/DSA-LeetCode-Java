@@ -20,10 +20,12 @@ My Java solutions to LeetCode DSA problems
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1929-concatenation-of-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0001-two-sum) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +74,7 @@ My Java solutions to LeetCode DSA problems
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
 | ------- |

@@ -14,6 +14,7 @@ My Java solutions to LeetCode DSA problems
 | [0051-n-queens](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0137-single-number-ii) |
@@ -33,6 +34,7 @@ My Java solutions to LeetCode DSA problems
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -104,6 +106,7 @@ My Java solutions to LeetCode DSA problems
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0088-merge-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Depth-First Search
 |  |

@@ -69,6 +69,7 @@ My Java solutions to LeetCode DSA problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0136-single-number) |
@@ -85,6 +86,7 @@ My Java solutions to LeetCode DSA problems
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0231-power-of-two) |
 | [0507-perfect-number](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

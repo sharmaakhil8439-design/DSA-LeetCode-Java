@@ -21,6 +21,7 @@ My Java solutions to LeetCode DSA problems
 | [0260-single-number-iii](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0260-single-number-iii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0682-baseball-game) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1929-concatenation-of-array) |
@@ -103,6 +104,7 @@ My Java solutions to LeetCode DSA problems
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
@@ -135,4 +137,8 @@ My Java solutions to LeetCode DSA problems
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sharmaakhil8439-design/DSA-LeetCode-Java/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
